@@ -1,0 +1,62 @@
+crop_id,scientific_name,year,period,price_low,price_high,price_mid,grade_as_printed,source,url
+NMPB_V1_004,Alpinia galanga,2016,Sep-2016,130,135,132.5,Kulanjan,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_004,Alpinia galanga,2017,Dec-2017,135,140,137.5,Kulanjan,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_004,Alpinia galanga,2018,Sep-2018,180,185,182.5,Kulanjan,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_006,Asparagus racemosus,2015,Dec-2015,140,150,145.0,Satavar (safed),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_006,Asparagus racemosus,2016,Sep-2016,160,170,165.0,Shatavar safed,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_006,Asparagus racemosus,2017,Dec-2017,270,320,295.0,Shatavar (safed),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_006,Asparagus racemosus,2018,Sep-2018,170,200,185.0,Shatavar (safed),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_006,Asparagus racemosus,2021,Dec-2021,250,300,275.0,Satavar (safed),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_006,Asparagus racemosus,2023,Dec-2023,240,290,265.0,Asparagus racemosus (2nd row),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_006,Asparagus racemosus,2024,Mar-2024,250,300,275.0,Shatavar (safed),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_007,Bacopa monnieri,2023,Dec-2023,265,265,265.0,Bacopa monnieri,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_007,Bacopa monnieri,2024,Mar-2024,260,260,260.0,Brahmi badhiya,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_014,Curculigo orchioides,2015,Dec-2015,200,250,225.0,Musli (Sudan) - C. orchioides,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_014,Curculigo orchioides,2016,Sep-2016,500,550,525.0,Musli Sudan - C. orchioides,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_014,Curculigo orchioides,2017,Dec-2017,300,400,350.0,Musli (kali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_014,Curculigo orchioides,2018,Sep-2018,350,400,375.0,Kali musli,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_014,Curculigo orchioides,2021,Dec-2021,325,350,337.5,Kali musli,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_014,Curculigo orchioides,2023,Dec-2023,550,600,575.0,C. orchioides (kali musli row),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_014,Curculigo orchioides,2024,Mar-2024,575,600,587.5,Kali musli,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_020,Hedychium spicatum,2021,Dec-2021,50,150,100.0,Kapoor kachri,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_020,Hedychium spicatum,2024,Mar-2024,45,50,47.5,Kapoor kachri,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_021,Hemidesmus indicus,2015,Dec-2015,280,280,280.0,Anantmool (lal),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_021,Hemidesmus indicus,2016,Sep-2016,360,360,360.0,Anantmool (Madrasi),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_021,Hemidesmus indicus,2017,Dec-2017,350,350,350.0,Anantmool (Madrasi),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_021,Hemidesmus indicus,2018,Sep-2018,700,700,700.0,Anantmool (Madrasi),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_021,Hemidesmus indicus,2021,Dec-2021,600,625,612.5,Anantmool,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_021,Hemidesmus indicus,2023,Dec-2023,660,660,660.0,Hemidesmus (1st row),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_021,Hemidesmus indicus,2024,Mar-2024,660,660,660.0,Anantmool,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_027,Nardostachys grandiflora,2016,Sep-2016,800,825,812.5,Balchhad (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_027,Nardostachys grandiflora,2017,Dec-2017,800,825,812.5,Balchhad (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_030,Picrorhiza kurroa,2015,Dec-2015,950,1150,1050.0,Kutki,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_030,Picrorhiza kurroa,2016,Sep-2016,750,950,850.0,Kutki,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_030,Picrorhiza kurroa,2017,Dec-2017,775,900,837.5,Kutki,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_030,Picrorhiza kurroa,2018,Sep-2018,1100,1400,1250.0,Kutki,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_030,Picrorhiza kurroa,2023,Dec-2023,1500,1800,1650.0,Picrorhiza kurroa,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_030,Picrorhiza kurroa,2024,Mar-2024,1500,1800,1650.0,Kutki,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_031,Plumbago zeylanica,2021,Dec-2021,140,140,140.0,Chitrakmool,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_031,Plumbago zeylanica,2023,Dec-2023,225,225,225.0,Plumbago (1st row),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_031,Plumbago zeylanica,2024,Mar-2024,225,225,225.0,Chitrakmool,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_041,Swertia chirata,2015,Dec-2015,500,600,550.0,Chirayata (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_041,Swertia chirata,2016,Sep-2016,330,380,355.0,Chirayata (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_041,Swertia chirata,2017,Dec-2017,320,400,360.0,Chirayata (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_041,Swertia chirata,2018,Sep-2018,320,400,360.0,Chirayata (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_041,Swertia chirata,2023,Dec-2023,875,875,875.0,Swertia chirata,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_041,Swertia chirata,2024,Mar-2024,875,875,875.0,Chirayata (Nepali),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_042,Terminalia arjuna,2015,Dec-2015,20,22,21.0,Arjun chhal,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_042,Terminalia arjuna,2016,Sep-2016,18,22,20.0,Arjun chhal,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvolume_16issue_3.pdf
+NMPB_V1_042,Terminalia arjuna,2017,Dec-2017,20,25,22.5,Arjun chhal,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_042,Terminalia arjuna,2018,Sep-2018,28,29,28.5,Arjun chhal,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_042,Terminalia arjuna,2021,Dec-2021,30,30,30.0,Arjun chhal,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_042,Terminalia arjuna,2023,Dec-2023,45,45,45.0,Terminalia arjuna,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_042,Terminalia arjuna,2024,Mar-2024,45,45,45.0,Arjun chhal,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_043,Terminalia chebula,2015,Dec-2015,14,15,14.5,Harra (badi),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_043,Terminalia chebula,2017,Dec-2017,22,25,23.5,Harad (badi),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec2017.pdf
+NMPB_V1_043,Terminalia chebula,2018,Sep-2018,40,50,45.0,Harad (badi),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Sept2018.pdf
+NMPB_V1_043,Terminalia chebula,2023,Dec-2023,45,55,50.0,T. chebula (row 35),"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_043,Terminalia chebula,2024,Mar-2024,45,55,50.0,Harad badi,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
+NMPB_V1_044,Tinospora cordifolia,2015,Dec-2015,25,28,26.5,Giloy,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/vandhanvol15_issue4.pdf
+NMPB_V1_044,Tinospora cordifolia,2021,Dec-2021,36,36,36.0,Giloy,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_OctDec21.pdf
+NMPB_V1_044,Tinospora cordifolia,2023,Dec-2023,40,50,45.0,Tinospora cordifolia,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VD_Dec23.pdf
+NMPB_V1_044,Tinospora cordifolia,2024,Mar-2024,40,50,45.0,Giloy,"Van Dhan Vyapar - National wholesale market rates, SFRI Jabalpur",https://www.mpsfri.org/files/VanDhan_Mar2024.pdf
